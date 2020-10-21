@@ -1,0 +1,9 @@
+{
+  "host": "localhost",
+  "port": "3030",
+
+  "postgres": {
+    "client": "pg",
+    "connection" : "postgresql://postgres:123456789@localhost:5432/feathers"
+  }
+}

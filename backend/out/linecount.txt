@@ -1,0 +1,62 @@
+===============================================================================
+EXTENSION NAME : linecount
+EXTENSION VERSION : 0.1.7
+-------------------------------------------------------------------------------
+count time : 2020-05-14 14:52:20
+count workspace : d:\Project\playground\feathers
+total files : 50
+total code lines : 10050
+total comment lines : 113
+total blank lines : 209
+
+.core\token system.png, it is a binary file.
+.core\Website Changes.doc, it is a binary file.
+.editorconfig, code is 11, comment is 1, blank is 2.
+.eslintrc.json, code is 26, comment is 0, blank is 3.
+.gitignore, code is 22, comment is 3, blank is 8.
+config\default.json, code is 57, comment is 0, blank is 4.
+config\production.json, code is 4, comment is 0, blank is 0.
+config\test.json, code is 1, comment is 0, blank is 0.
+package-lock.json, code is 9071, comment is 0, blank is 0.
+package.json, code is 67, comment is 0, blank is 2.
+pg\index.js, code is 0, comment is 0, blank is 0.
+public\favicon.ico, it is a binary file.
+public\index.html, code is 65, comment is 0, blank is 10.
+README.md, code is 28, comment is 3, blank is 17.
+src\app.hooks.js, code is 29, comment is 1, blank is 3.
+src\app.js, code is 49, comment is 9, blank is 19.
+src\authentication.js, code is 10, comment is 0, blank is 3.
+src\channels.js, code is 18, comment is 31, blank is 13.
+src\index.js, code is 10, comment is 1, blank is 2.
+src\knex.js, code is 6, comment is 0, blank is 2.
+src\logger.js, code is 12, comment is 2, blank is 2.
+src\middleware\index.js, code is 2, comment is 3, blank is 0.
+src\models\clients.model.js, code is 15, comment is 5, blank is 3.
+src\models\customers.model.js, code is 17, comment is 5, blank is 4.
+src\models\shops.model.js, code is 15, comment is 5, blank is 3.
+src\models\slots.model.js, code is 15, comment is 5, blank is 3.
+src\models\token.js, code is 17, comment is 5, blank is 4.
+src\models\users.model.js, code is 19, comment is 5, blank is 8.
+src\services\clients\clients.class.js, code is 9, comment is 8, blank is 7.
+src\services\clients\clients.hooks.js, code is 30, comment is 3, blank is 6.
+src\services\clients\clients.schemas.js, code is 39, comment is 1, blank is 15.
+src\services\clients\clients.service.js, code is 12, comment is 3, blank is 4.
+src\services\index.js, code is 10, comment is 1, blank is 0.
+src\services\shops\shops.class.js, code is 9, comment is 0, blank is 1.
+src\services\shops\shops.hooks.js, code is 30, comment is 0, blank is 3.
+src\services\shops\shops.service.js, code is 12, comment is 3, blank is 4.
+src\services\slots\slots.class.js, code is 9, comment is 0, blank is 1.
+src\services\slots\slots.hooks.js, code is 30, comment is 0, blank is 3.
+src\services\slots\slots.service.js, code is 12, comment is 3, blank is 4.
+src\services\users\users.class.js, code is 13, comment is 0, blank is 4.
+src\services\users\users.hooks.js, code is 37, comment is 3, blank is 8.
+src\services\users\users.schemas.js, code is 47, comment is 0, blank is 5.
+src\services\users\users.service.js, code is 12, comment is 3, blank is 4.
+src\util\common.js, code is 46, comment is 0, blank is 4.
+test\app.test.js, code is 53, comment is 0, blank is 12.
+test\authentication.test.js, code is 26, comment is 1, blank is 5.
+test\services\clients.test.js, code is 7, comment is 0, blank is 1.
+test\services\shops.test.js, code is 7, comment is 0, blank is 1.
+test\services\slots.test.js, code is 7, comment is 0, blank is 1.
+test\services\users.test.js, code is 7, comment is 0, blank is 1.
+===============================================================================

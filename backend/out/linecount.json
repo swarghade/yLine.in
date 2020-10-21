@@ -1,0 +1,320 @@
+{
+    "extension": "linecount",
+    "version": "0.1.7",
+    "workspace": "d:\\Project\\playground\\feathers",
+    "linecount": [
+        {
+            "version": "0.1.7",
+            "counttime": "2020-05-14 14:52:20",
+            "filesum": 50,
+            "codesum": 10050,
+            "commentsum": 113,
+            "blanksum": 209,
+            "filelist": [
+                {
+                    "filename": ".core\\token system.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": ".core\\Website Changes.doc",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 2,
+                    "code": 11,
+                    "comment": 1,
+                    "filename": ".editorconfig"
+                },
+                {
+                    "blank": 3,
+                    "code": 26,
+                    "comment": 0,
+                    "filename": ".eslintrc.json"
+                },
+                {
+                    "blank": 8,
+                    "code": 22,
+                    "comment": 3,
+                    "filename": ".gitignore"
+                },
+                {
+                    "blank": 4,
+                    "code": 57,
+                    "comment": 0,
+                    "filename": "config\\default.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "config\\production.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "config\\test.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 9071,
+                    "comment": 0,
+                    "filename": "package-lock.json"
+                },
+                {
+                    "blank": 2,
+                    "code": 67,
+                    "comment": 0,
+                    "filename": "package.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "pg\\index.js"
+                },
+                {
+                    "filename": "public\\favicon.ico",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 10,
+                    "code": 65,
+                    "comment": 0,
+                    "filename": "public\\index.html"
+                },
+                {
+                    "blank": 17,
+                    "code": 28,
+                    "comment": 3,
+                    "filename": "README.md"
+                },
+                {
+                    "blank": 3,
+                    "code": 29,
+                    "comment": 1,
+                    "filename": "src\\app.hooks.js"
+                },
+                {
+                    "blank": 19,
+                    "code": 49,
+                    "comment": 9,
+                    "filename": "src\\app.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "src\\authentication.js"
+                },
+                {
+                    "blank": 13,
+                    "code": 18,
+                    "comment": 31,
+                    "filename": "src\\channels.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 10,
+                    "comment": 1,
+                    "filename": "src\\index.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "src\\knex.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 12,
+                    "comment": 2,
+                    "filename": "src\\logger.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 3,
+                    "filename": "src\\middleware\\index.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 15,
+                    "comment": 5,
+                    "filename": "src\\models\\clients.model.js"
+                },
+                {
+                    "blank": 4,
+                    "code": 17,
+                    "comment": 5,
+                    "filename": "src\\models\\customers.model.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 15,
+                    "comment": 5,
+                    "filename": "src\\models\\shops.model.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 15,
+                    "comment": 5,
+                    "filename": "src\\models\\slots.model.js"
+                },
+                {
+                    "blank": 4,
+                    "code": 17,
+                    "comment": 5,
+                    "filename": "src\\models\\token.js"
+                },
+                {
+                    "blank": 8,
+                    "code": 19,
+                    "comment": 5,
+                    "filename": "src\\models\\users.model.js"
+                },
+                {
+                    "blank": 7,
+                    "code": 9,
+                    "comment": 8,
+                    "filename": "src\\services\\clients\\clients.class.js"
+                },
+                {
+                    "blank": 6,
+                    "code": 30,
+                    "comment": 3,
+                    "filename": "src\\services\\clients\\clients.hooks.js"
+                },
+                {
+                    "blank": 15,
+                    "code": 39,
+                    "comment": 1,
+                    "filename": "src\\services\\clients\\clients.schemas.js"
+                },
+                {
+                    "blank": 4,
+                    "code": 12,
+                    "comment": 3,
+                    "filename": "src\\services\\clients\\clients.service.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 1,
+                    "filename": "src\\services\\index.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "src\\services\\shops\\shops.class.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 30,
+                    "comment": 0,
+                    "filename": "src\\services\\shops\\shops.hooks.js"
+                },
+                {
+                    "blank": 4,
+                    "code": 12,
+                    "comment": 3,
+                    "filename": "src\\services\\shops\\shops.service.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "src\\services\\slots\\slots.class.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 30,
+                    "comment": 0,
+                    "filename": "src\\services\\slots\\slots.hooks.js"
+                },
+                {
+                    "blank": 4,
+                    "code": 12,
+                    "comment": 3,
+                    "filename": "src\\services\\slots\\slots.service.js"
+                },
+                {
+                    "blank": 4,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "src\\services\\users\\users.class.js"
+                },
+                {
+                    "blank": 8,
+                    "code": 37,
+                    "comment": 3,
+                    "filename": "src\\services\\users\\users.hooks.js"
+                },
+                {
+                    "blank": 5,
+                    "code": 47,
+                    "comment": 0,
+                    "filename": "src\\services\\users\\users.schemas.js"
+                },
+                {
+                    "blank": 4,
+                    "code": 12,
+                    "comment": 3,
+                    "filename": "src\\services\\users\\users.service.js"
+                },
+                {
+                    "blank": 4,
+                    "code": 46,
+                    "comment": 0,
+                    "filename": "src\\util\\common.js"
+                },
+                {
+                    "blank": 12,
+                    "code": 53,
+                    "comment": 0,
+                    "filename": "test\\app.test.js"
+                },
+                {
+                    "blank": 5,
+                    "code": 26,
+                    "comment": 1,
+                    "filename": "test\\authentication.test.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "test\\services\\clients.test.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "test\\services\\shops.test.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "test\\services\\slots.test.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "test\\services\\users.test.js"
+                }
+            ]
+        }
+    ]
+}
