@@ -1,5 +1,5 @@
 
-https://yline.in/shops
+https://yline.in
 
 Contributor :  Irfan Shaikh (Full stack development) , Shubham Warghade (Database Designing & Implementation)
 
