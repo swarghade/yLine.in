@@ -1,6 +1,6 @@
 # token-system
 
-> My geometric Nuxt.js project
+> yLine.in Token system
 
 ## Build Setup
 
@@ -19,4 +19,3 @@ $ yarn start
 $ yarn generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
